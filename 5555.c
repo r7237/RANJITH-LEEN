@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 const float add = 0.5;
 int main(void)
 {
