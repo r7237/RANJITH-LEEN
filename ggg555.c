@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+ #include<conio.h>
 int main()
 {
    int array[100], position, c, n, value;
